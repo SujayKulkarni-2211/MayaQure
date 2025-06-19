@@ -1,15 +1,15 @@
 # MayaQure: Quantum-Regularized Latent Architectures for Hallucination Reduction
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  ██████████  █████  ██    ██  █████   ██████  ██    ██ ███████  │
-│  ██  ██  ██ ██   ██  ██  ██  ██   ██ ██    ██ ██    ██ ██    █  │
-│  ██  ██  ██ ███████   ████   ███████ ██    ██ ██    ██ █████    │
-│  ██     ██  ██   ██    ██    ██   ██ ██ ▄▄ ██ ██    ██ ██       │
-│  ██     ██  ██   ██    ██    ██   ██  ██████   ██████  ███████  │
-│                                         ▀▀                     │
-│          Quantum-Classical Hybrid AI Architecture             │
-└─────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────┐
+│  ██████████  █████  ██    ██  █████   ██████  ██    ██ ██ █████   ███████  │
+│  ██  ██  ██ ██   ██  ██  ██  ██   ██ ██    ██ ██    ██ ██     ██  ██    █  │
+│  ██  ██  ██ ███████   ████   ███████ ██    ██ ██    ██ ██ ████    █████    │
+│  ██     ██  ██   ██    ██    ██   ██ ██ ▄▄ ██ ██    ██ ██    ██   ██       │
+│  ██     ██  ██   ██    ██    ██   ██  ██████   ██████  ██      ██ ███████  │
+│                                         ▀▀                                 │
+│          Quantum-Classical Hybrid AI Architecture                          │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg?style=flat-square&logo=python)](https://www.python.org/downloads/)
@@ -1361,11 +1361,11 @@ We welcome contributions from the quantum machine learning community! Please see
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                                                                                 │
 │                                                                                                                                 │
-│      **त्रिभिर्गुणमयैर्भावैरेभि: सर्वमिदं जगत् | मोहितं नाभिजानाति मामेभ्य: परमव्ययम् || 7.13||**                                                    │
+│      त्रिभिर्गुणमयैर्भावैरेभि: सर्वमिदं जगत् | मोहितं नाभिजानाति मामेभ्य: परमव्ययम् || 7.13||                                                        │
 │                                                                                                                                 │
-│     *tribhir guṇa-mayair bhāvair ebhiḥ sarvam idaṁ jagat mohitaṁ nābhijānāti māmebhyaḥ param avyayam*                           │
+│      tribhir guṇa-mayair bhāvair ebhiḥ sarvam idaṁ jagat mohitaṁ nābhijānāti māmebhyaḥ param avyayam                            │
 │                                                                                                                                 │
-│      **BG 7.13: Deluded by the three modes of Maya, people in this world are unable to know Me, the imperishable and eternal.** │
+│       BG 7.13: Deluded by the three modes of Maya, people in this world are unable to know Me, the imperishable and eternal.    │
 │                                                                                                                                 │
 │                                                                                                                                 │
 │                                                                                                                                 │
